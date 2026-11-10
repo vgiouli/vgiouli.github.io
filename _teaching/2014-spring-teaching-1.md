@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Aristotle University of Thessaloniki"
-date: 2015-03-01
+date: 2025-03-01
 location: "Thessaloniki, Greece"
 ---
 
