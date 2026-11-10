@@ -2,9 +2,9 @@
 title: "Computational Linguistics (AK0269)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2025-spring-teaching-1
 venue: "Aristotle University of Thessaloniki"
-date: 2015-01-01
+date: 2015-03-01
 location: "Thessaloniki, Greece"
 ---
 
