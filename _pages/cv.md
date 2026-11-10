@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Linguistics, National and Kapodistrian University of Athens, Greece 2020.
+* M.Sc. in Speech and Language Processing, University of Edinburgh, UK
+* M.A. in Greek Philology with specialty in Linguistics, 1992
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024 - now: Aristotle University of Thessaloniki, Greece
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 1998 - 2024: Institute for Language and Speech Processing, ATHENA Research Centre (Research Assistant)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 1995 - 1998: University of Patras, Wire Communications Laboratory (Research Assistant)
+  
   
 Skills
 ======
