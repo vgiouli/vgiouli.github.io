@@ -1,11 +1,11 @@
 ---
 title: "Electronic Lexicography"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Aristotle University of Thessaloniki, German Language and Literature Department"
+date: 2024-10-01
+location: "Thssaloniki, Greece"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
